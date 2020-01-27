@@ -7,4 +7,8 @@ package model.persona;
  */
 public class Persona {
     
+    public Persona(){
+    
+    }
+    
 }
