@@ -13,10 +13,6 @@ public class Cuenta {
         this._titular = _titular;
         this._cantidad = _cantidad;
     }
-
-    public Cuenta() {
-    }
-
     public String getTitular() {
         return _titular;
     }
