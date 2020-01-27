@@ -8,6 +8,9 @@ public class Cuenta {
     private String _titular;
     private float _cantidad;
 
+    public Cuenta() {
+    }
+
     
     public Cuenta(String _titular, float _cantidad) {
         this._titular = _titular;
